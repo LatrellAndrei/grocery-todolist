@@ -1,4 +1,4 @@
-# Grocery To-Do List App
+# Grocery To-Do List App REACT JS
 
 A simple React + Vite project for managing your grocery to-do list.
 
@@ -32,10 +32,11 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/yourusername/grocery-todo-list.git
-   cd grocery-todo-list
-
+   git clone (https://github.com/LatrellAndrei/grocery-todolist.git)
+   cd grocery-todolist
+Install the project dependencies:
    npm install
+Start the development server by running the following command:
    npm run dev
 
 This will start the development server, and you can access the app at http://localhost:3000 in your web browser.
